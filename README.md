@@ -1,5 +1,7 @@
-A crash course in MEG and EEG analysis with Python
-==================================================
+A crash course in M/EEG analysis in Python
+==========================================
+
+![patterns](https://martinos.org/mne/stable/_images/sphx_glr_plot_decoding_csp_eeg_001.png)
 
 What you will need?
 -------------------
@@ -11,4 +13,8 @@ What you will need?
 What's next?
 ------------
 
-Check out the Jupyter notebooks.
+Check out the Jupyter notebooks:
+
+- [Introduction to Scientific Python](https://github.com/jasmainak/polytechnique-workshop/blob/master/01-intro_to_python.ipynb)
+- [Introduction to scikit-learn](https://github.com/jasmainak/polytechnique-workshop/blob/master/02-intro_to_scikit-learn.ipynb)
+- [Predicting motor imagery from EEG data](https://github.com/jasmainak/polytechnique-workshop/blob/master/03-plot_decoding_csp_eeg.ipynb)
